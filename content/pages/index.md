@@ -377,7 +377,7 @@ sections:
       type: VideoBlock
       autoplay: true
       loop: true
-      muted: true
+      muted: false
     badge:
       label: MODLING SCULPTURE
       color: text-primary
