@@ -152,6 +152,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
+      url: /images/WhatsApp Image 2024-09-25 at 6.34.52 PM.jpeg
   - type: GenericSection
     title:
       type: TitleBlock
