@@ -307,7 +307,7 @@ sections:
   - type: FeaturedPeopleSection
     title:
       type: TitleBlock
-      text: Meet the team
+      text: 'SOME OF MY PROJECTS '
       color: text-dark
       styles:
         self:
