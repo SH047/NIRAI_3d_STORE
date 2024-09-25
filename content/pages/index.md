@@ -155,23 +155,15 @@ sections:
           textAlign: left
     subtitle: ''
     text: >
-      ###### My journey into 3D printing started with a fascination
-
-      for how ideas could turn into tangible objects with just the click of a
-      button.
+      ###### My journey into 3D printing started with a fascination for how
+      ideas could turn into tangible objects with just the click of a button.
 
       I was blown away by the endless possibilities of what you could create-
-      from
-
-      action figures of your favorite characters to fully customized parts for
-
-      personal projects. The more I explored, the more I knew I wanted to turn
-      this
-
-      into something that could benefit others. And so, with an SLA 3D printer
-      and a
-
-      lot of excitement, I started offering custom 3D printing services.
+      from action figures of your favorite characters to fully customized parts
+      for personal projects. The more I explored, the more I knew I wanted to
+      turn this into something that could benefit others. And so, with an SLA 3D
+      printer and a lot of excitement, I started offering custom 3D printing
+      services.
 
 
       ## **What I Do: Custom 3D Prints for Everyone**
