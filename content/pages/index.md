@@ -109,11 +109,34 @@ sections:
         self:
           textAlign: left
     subtitle: ''
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+
+
+
+
+      Hey there! I’m Shreyas S Rai, the proud owner of a small
+
+      but mighty 3D printing business. If you're a college student or just
+      someone
+
+      with a cool idea, then you’re in the right place. I started this venture
+      with
+
+      one mission in mind: \*\*to make custom 3D printing accessible, fun, and
+
+      affordable\*\* for creators like you. So, let me tell you a bit more about
+      how
+
+      this passion project came to life and what I can do to help you bring your
+
+      ideas into the real world.
+
+
+
+
+
+
+
     actions: []
     colors: bg-light-fg-dark
     styles:
