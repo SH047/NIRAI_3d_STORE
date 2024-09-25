@@ -376,7 +376,7 @@ sections:
       loop: true
       muted: true
     badge:
-      label: Key Benefits
+      label: MODLING SCULPTURE
       color: text-primary
       styles:
         self:
