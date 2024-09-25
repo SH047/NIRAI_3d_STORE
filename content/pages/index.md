@@ -11,7 +11,7 @@ sections:
         self:
           fontWeight: 700
           textAlign: left
-    subtitle: Get Started on Your Custom Design Now!"
+    subtitle: Get Started on Your Custom Design Now!
     text: |+
       Custom 3D prints for your project models.
 
