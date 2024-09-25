@@ -1,9 +1,9 @@
 {
     "type": "Person",
-    "name": "Drake Garza",
-    "role": "Job title",
+    "name": "Charizard",
+    "role": "Action Figures",
     "image": {
-        "url": "/images/avatar5.svg",
+        "url": "/images/WhatsApp Image 2024-09-25 at 8.59.44 PM.jpeg",
         "altText": "Drake Garza",
         "styles": {
             "self": {
@@ -33,5 +33,5 @@
             "justifyContent": "center"
         }
     },
-    "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.\n"
+    "bio": ""
 }

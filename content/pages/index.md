@@ -29,7 +29,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: See Tutorials
+      - label: ''
         altText: ''
         url: /
         showIcon: true
@@ -68,85 +68,8 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
-    items:
-      - type: FeaturedItem
-        title: 500k
-        subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        actions: []
-        elementId: null
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-            justifyContent: center
-            textAlign: left
-        image:
-          type: ImageBlock
-          altText: Lightning bolt symbol on red background
-          elementId: ''
-          url: /images/icon1.svg
-          styles:
-            self:
-              borderRadius: x-large
-      - title: 20x
-        subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/icon2.svg
-          altText: Featured icon two
-          elementId: ''
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-            textAlign: left
-            justifyContent: center
-        type: FeaturedItem
-      - title: 200%
-        subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/icon3.svg
-          altText: Featured icon three
-          elementId: ''
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-        type: FeaturedItem
+    subtitle: We make 3D printing fun and affordable for everyone
+    items: []
     actions:
       - label: Get started
         altText: ''
@@ -158,7 +81,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: This is a badge
+      label: From Concepts to Creations
       color: text-primary
       styles:
         self:
@@ -177,44 +100,226 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Award winning enterprises trust us
-    images:
-      - url: /images/empathy-logo.svg
-        altText: Empathy logo
-        type: ImageBlock
-      - url: /images/wellster-logo.svg
-        altText: Wellster logo
-        type: ImageBlock
-      - url: /images/vise-logo.svg
-        altText: Vise logo
-        type: ImageBlock
-      - url: /images/telus-logo.svg
-        altText: Telus logo
-        type: ImageBlock
-      - url: /images/contenful-logo.svg
-        altText: Contentful logo
-        type: ImageBlock
-      - url: /images/sanity-logo.svg
-        altText: Sanity logo
-        type: ImageBlock
-      - url: /images/rangle-logo.svg
-        altText: Rangle logo
-        type: ImageBlock
-    motion: move-to-left
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: MY MOTO
+      color: text-dark
+      styles:
+        self:
+          textAlign: left
+    subtitle: ''
+    text: >
+      **Hey there! I’m Shreyas S Rai, the proud owner of a small
+
+      but mighty 3D printing business. If you're a college student or just
+      someone
+
+      with a cool idea, then you’re in the right place. I started this venture
+      with
+
+      one mission in mind: to make custom 3D printing accessible, fun, and
+
+      affordable for creators like you. So, let me tell you a bit more about how
+
+      this passion project came to life and what I can do to help you bring your
+
+      ideas into the real world.**
+    actions: []
     colors: bg-light-fg-dark
     styles:
       self:
+        flexDirection: row
+        justifyContent: center
+        alignItems: center
+      subtitle:
+        textAlign: left
+    backgroundImage:
+      type: BackgroundImage
+      altText: altText of the image
+      backgroundSize: auto
+      backgroundPosition: center
+      backgroundRepeat: no-repeat
+      opacity: 100
+    media:
+      type: ImageBlock
+      url: /images/WhatsApp Image 2024-09-25 at 8.41.16 PM.jpeg
+      altText: Image alt text placeholder
+      elementId: ''
+      styles:
+        self:
+          borderRadius: medium
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Where It All Began
+      color: text-dark
+      styles:
+        self:
+          textAlign: left
+    subtitle: ''
+    text: >
+      ###### My journey into 3D printing started with a fascination for how
+      ideas could turn into tangible objects with just the click of a button.
+
+      I was blown away by the endless possibilities of what you could create-
+      from action figures of your favorite characters to fully customized parts
+      for personal projects. The more I explored, the more I knew I wanted to
+      turn this into something that could benefit others. And so, with an SLA 3D
+      printer and a lot of excitement, I started offering custom 3D printing
+      services.
+
+
+      ## **What I Do: Custom 3D Prints for Everyone**
+
+
+      Here’s where things get really exciting. My printer
+
+      allows me to bring your creative ideas to life, whether it’s a custom
+
+      action figure, a unique keychain, or even parts for your next big project.
+
+      Here’s a little breakdown of what I offer:
+
+
+      **Action Figures:** Whether you want to turn yourself
+
+      into an action hero or create a one-of-a-kind figure, I’ve got you
+      covered. You
+
+      bring the idea, and I’ll make it real.
+
+
+      **Key Chains & Souvenirs:** These are perfect for
+
+      gifting or simply keeping a piece of creativity in your pocket.
+      Customizable
+
+      and fun, I can help you design something that’s truly yours.
+
+
+      **Custom 3D Parts:** Got a specific design in mind for
+
+      a project? Need something that isn’t available off the shelf? I take
+      orders for
+
+      printing custom parts to fit your exact needs.
+
+
+      *And the best part? You don’t need to be a 3D design*
+
+      expert to get started. Whether you have a fully-formed design or just an
+
+      idea, I’ll work with you every step of the way.
+
+
+      ## **Making 3D Printing Accessible to Students**
+
+
+      I know that as a student, affordability is key. That’s
+
+      why I’ve made sure that my services are \*\*priced to be
+      student-friendly\*\*
+
+      without compromising on quality. I’m all about offering a service that’s
+      not
+
+      only reliable but also easy on your budget. Plus, I make it a point to
+      keep the
+
+      entire process smooth and stress-free, whether you’re printing a small
+      keychain
+
+      or working on a complex project.
+
+
+      ## **How the Process Works**
+
+
+      It’s super easy to get started with your custom 3D print.
+
+      Here’s a quick look at the process:
+
+
+      **1. Upload Your Design:** If you already have a 3D
+
+      design, great! If not, I’ll help you create one based on your idea.
+
+
+      **2. Choose Materials & Size**: You can select from a
+
+      variety of materials and finishes to make sure your print comes out just
+      how
+
+      you envisioned it.
+
+
+      **3. Get a Quote & Print:** I’ll give you a quick and
+
+      transparent quote based on the complexity of the project, and once
+      confirmed,
+
+      the printing magic begins!
+
+
+      **4. Pick Up or Delivery:** You can either pick up your
+
+      print or have it delivered right to you.
+
+
+      Why Choose My 3D Printing Service?
+
+
+      **Friendly and Approachable:** I’m always here to
+
+      answer your questions and guide you through the process. No confusing
+      jargon,
+
+      just simple and clear communication.
+
+
+      **Quality You Can Trust:** I use advanced SLA printing
+
+      technology that produces detailed and durable prints every time.
+
+
+      Custom for You: No two projects are the same, and I
+
+      love working on unique ideas that push the boundaries of creativity.
+
+
+      Let’s Build Something Awesome Together!
+    actions: []
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        flexDirection: row
         justifyContent: center
       subtitle:
-        textAlign: center
-    type: ImageGallerySection
-  - posts:
-      - content/pages/blog/case-study-1.md
-      - content/pages/blog/case-study-2.md
-      - content/pages/blog/case-study-3.md
-    showThumbnail: true
-    showDate: true
-    showAuthor: true
+        textAlign: left
+    media:
+      type: ImageBlock
+      altText: Image alt text placeholder
+      elementId: ''
+      styles:
+        self:
+          borderRadius: medium
+  - type: FeaturedPeopleSection
+    title:
+      type: TitleBlock
+      text: 'SOME OF MY PROJECTS '
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    people:
+      - content/data/person1.json
+      - content/data/person2.json
+      - content/data/person3.json
+      - content/data/person4.json
+      - content/data/person5.json
+      - content/data/person6.json
+    actions: []
     variant: three-col-grid
     colors: bg-light-fg-dark
     styles:
@@ -225,8 +330,8 @@ sections:
           - pb-16
           - pr-16
         justifyContent: center
-    type: FeaturedPostsSection
-    hoverEffect: move-up
+      subtitle:
+        textAlign: center
   - title: Divider
     colors: bg-light-fg-dark
     styles:
@@ -238,23 +343,26 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Grow your business 10x faster
+      text: >-
+        From Snapshots to Sculptures: Crafting Art with Photogrammetry and 3D
+        Printing
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is a subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    subtitle: ''
+    text: |+
+      This captures the transformation process and highlights the creative
+      journey from photography to 3D-printed sculpture.
+
+
+
     media:
-      title: Title of the video
-      url: /images/placeholder-video.mp4
-      controls: false
-      aspectRatio: '16:9'
+      title: Making
+      url: '"C:\Users\kumarswamy k p\Desktop\website NIRAI 3D STORE\AMMA MODEL.mp4"'
+      controls: true
+      aspectRatio: '4:3'
       styles:
         self:
           padding:
@@ -269,9 +377,9 @@ sections:
       type: VideoBlock
       autoplay: true
       loop: true
-      muted: true
+      muted: false
     badge:
-      label: Key Benefits
+      label: MODLING SCULPTURE
       color: text-primary
       styles:
         self:
@@ -285,41 +393,40 @@ sections:
       subtitle:
         textAlign: center
     type: GenericSection
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-20
+          - pl-20
+          - pb-20
+          - pr-20
   - type: GenericSection
     title:
-      text: Generic section with a video
+      text: MY PRINTER SPECIFATIONS
       color: text-dark
       styles:
         self:
           textAlign: left
       type: TitleBlock
-    subtitle: Section with a video subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    subtitle: Uses SLA Technology
+    text: >
+      Supports 12K Resolution
+
+
+      My Printer has a build volume of 218.88 x 122.88 x 260 mm³. This means it
+      can print objects up to 218.88 millimeters long, 122.88 millimeters wide,
+      and 260 millimeters tall.
+
+
+      It Prints Super Quick.
+
+
+      While Retaining High Model Quality
     actions: []
-    media:
-      title: Title of the video
-      url: /images/placeholder-video.mp4
-      autoplay: true
-      loop: true
-      muted: true
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: VideoBlock
     elementId: null
     colors: bg-light-fg-dark
     styles:
@@ -328,6 +435,14 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: left
+    media:
+      type: ImageBlock
+      url: /images/printer specifications.jpeg
+      altText: Image alt text placeholder
+      elementId: ''
+      styles:
+        self:
+          borderRadius: medium
   - title:
       text: Social Media Management
       color: text-dark
@@ -362,42 +477,6 @@ sections:
     styles:
       self:
         alignItems: center
-    type: GenericSection
-  - title:
-      text: Business Consulting
-      color: text-dark
-      type: TitleBlock
-    subtitle: Be in good company
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
-    actions:
-      - label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        type: Button
-      - label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
-    media:
-      url: /images/hero3.svg
-      altText: Dope design preview
-      type: ImageBlock
-    badge:
-      label: This is a badge
-      color: text-primary
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row-reverse
     type: GenericSection
   - title: Divider
     colors: bg-light-fg-dark
@@ -694,15 +773,46 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
   - title:
-      text: Generic Section With A Form
+      text: |-
+        It’s super easy to get started with your custom 3D print. Here’s a quick
+        look at the process:
       color: text-dark
       type: TitleBlock
-    subtitle: Section with a form subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    subtitle: ''
+    text: >+
+
+
+      **1. Upload Your Design:** If you already have a 3D
+
+      design, great! If not, I’ll help you create one based on your idea.
+
+
+      **2. Choose Materials & Size:** You can select from a
+
+      variety of materials and finishes to make sure your print comes out just
+      how
+
+      you envisioned it.
+
+
+      **3. Get a Quote & Print:** I’ll give you a quick and
+
+      transparent quote based on the complexity of the project, and once
+      confirmed,
+
+      the printing magic begins!
+
+
+      **4. Pick Up or Delivery**: You can either pick up your
+
+      print or have it delivered to you.
+
+
+
+
+
+
+
     media:
       fields:
         - name: name
