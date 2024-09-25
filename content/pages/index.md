@@ -406,7 +406,7 @@ sections:
           - pr-20
   - type: GenericSection
     title:
-      text: Generic section with a video
+      text: MY PRINTER SPECIFATIONS
       color: text-dark
       styles:
         self:
