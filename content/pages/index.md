@@ -773,7 +773,9 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
   - title:
-      text: g
+      text: |-
+        It’s super easy to get started with your custom 3D print. Here’s a quick
+        look at the process:
       color: text-dark
       type: TitleBlock
     subtitle: Section with a form subtitle
