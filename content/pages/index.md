@@ -362,7 +362,7 @@ sections:
       title: Making
       url: '"C:\Users\kumarswamy k p\Desktop\website NIRAI 3D STORE\AMMA MODEL.mp4"'
       controls: true
-      aspectRatio: '16:9'
+      aspectRatio: '4:3'
       styles:
         self:
           padding:
