@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: This Is The Place Where You Can Find
+      text: Bring Your Ideas to Life with 3D Printing!
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
