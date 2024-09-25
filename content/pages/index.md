@@ -360,7 +360,7 @@ sections:
 
     media:
       title: Making
-      url: 'https://youtube.com/shorts/H1vl4I-Kf3s?si=q928dQ1LYJ4ddKNc'
+      url: ''
       controls: true
       aspectRatio: '16:9'
       styles:
