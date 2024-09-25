@@ -154,11 +154,145 @@ sections:
         self:
           textAlign: left
     subtitle: ''
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      ###### My journey into 3D printing started with a fascination
+
+      for how ideas could turn into tangible objects with just the click of a
+      button.
+
+      I was blown away by the endless possibilities of what you could create-
+      from
+
+      action figures of your favorite characters to fully customized parts for
+
+      personal projects. The more I explored, the more I knew I wanted to turn
+      this
+
+      into something that could benefit others. And so, with an SLA 3D printer
+      and a
+
+      lot of excitement, I started offering custom 3D printing services.
+
+
+      ## **What I Do: Custom 3D Prints for Everyone**
+
+
+      Here’s where things get really exciting. My printer
+
+      allows me to bring your creative ideas to life, whether it’s a custom
+
+      action figure, a unique keychain, or even parts for your next big project.
+
+      Here’s a little breakdown of what I offer:
+
+
+      **Action Figures:** Whether you want to turn yourself
+
+      into an action hero or create a one-of-a-kind figure, I’ve got you
+      covered. You
+
+      bring the idea, and I’ll make it real.
+
+
+      **Key Chains & Souvenirs:** These are perfect for
+
+      gifting or simply keeping a piece of creativity in your pocket.
+      Customizable
+
+      and fun, I can help you design something that’s truly yours.
+
+
+      **Custom 3D Parts:** Got a specific design in mind for
+
+      a project? Need something that isn’t available off the shelf? I take
+      orders for
+
+      printing custom parts to fit your exact needs.
+
+
+      *And the best part? You don’t need to be a 3D design*
+
+      expert to get started. Whether you have a fully-formed design or just an
+
+      idea, I’ll work with you every step of the way.
+
+
+      ## **Making 3D Printing Accessible to Students**
+
+
+      I know that as a student, affordability is key. That’s
+
+      why I’ve made sure that my services are \*\*priced to be
+      student-friendly\*\*
+
+      without compromising on quality. I’m all about offering a service that’s
+      not
+
+      only reliable but also easy on your budget. Plus, I make it a point to
+      keep the
+
+      entire process smooth and stress-free, whether you’re printing a small
+      keychain
+
+      or working on a complex project.
+
+
+      ## **How the Process Works**
+
+
+      It’s super easy to get started with your custom 3D print.
+
+      Here’s a quick look at the process:
+
+
+      **1. Upload Your Design:** If you already have a 3D
+
+      design, great! If not, I’ll help you create one based on your idea.
+
+
+      **2. Choose Materials & Size**: You can select from a
+
+      variety of materials and finishes to make sure your print comes out just
+      how
+
+      you envisioned it.
+
+
+      **3. Get a Quote & Print:** I’ll give you a quick and
+
+      transparent quote based on the complexity of the project, and once
+      confirmed,
+
+      the printing magic begins!
+
+
+      **4. Pick Up or Delivery:** You can either pick up your
+
+      print or have it delivered right to you.
+
+
+      Why Choose My 3D Printing Service?
+
+
+      **Friendly and Approachable:** I’m always here to
+
+      answer your questions and guide you through the process. No confusing
+      jargon,
+
+      just simple and clear communication.
+
+
+      **Quality You Can Trust:** I use advanced SLA printing
+
+      technology that produces detailed and durable prints every time.
+
+
+      Custom for You: No two projects are the same, and I
+
+      love working on unique ideas that push the boundaries of creativity.
+
+
+      Let’s Build Something Awesome Together!
     actions: []
     colors: bg-light-fg-dark
     styles:
