@@ -413,11 +413,13 @@ sections:
           textAlign: left
       type: TitleBlock
     subtitle: Uses SLA Technology
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      Supports 12k Resolution 
+
+
+      My Printer has a build volume of 218.88 x 122.88 x 260 mm³. This means it
+      can print objects up to 218.88 millimeters long, 122.88 millimeters wide,
+      and 260 millimeters tall.
     actions: []
     media:
       title: Title of the video
