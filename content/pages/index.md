@@ -109,12 +109,8 @@ sections:
         self:
           textAlign: left
     subtitle: ''
-    text: >+
-
-
-
-
-      Hey there! I’m Shreyas S Rai, the proud owner of a small
+    text: >
+      **Hey there! I’m Shreyas S Rai, the proud owner of a small
 
       but mighty 3D printing business. If you're a college student or just
       someone
@@ -129,14 +125,7 @@ sections:
 
       this passion project came to life and what I can do to help you bring your
 
-      ideas into the real world.
-
-
-
-
-
-
-
+      ideas into the real world.**
     actions: []
     colors: bg-light-fg-dark
     styles:
