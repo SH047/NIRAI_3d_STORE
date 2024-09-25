@@ -12,10 +12,18 @@ sections:
           fontWeight: 700
           textAlign: left
     subtitle: Get Started on Your Custom Design Now!"
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      Custom 3D prints for your project models.
+
+
+      ![](/images/WhatsApp%20Image%202024-09-25%20at%206.34.50%20PM%20\(2\).jpeg)
+
+
+      Get Hand Crafted Action Figures, Souvenirs, and more!
+
+
+      ![](/images/WhatsApp%20Image%202024-09-25%20at%206.34.52%20PM.jpeg)
+
     actions:
       - label: Get started
         altText: ''
