@@ -414,12 +414,15 @@ sections:
       type: TitleBlock
     subtitle: Uses SLA Technology
     text: >
-      Supports 12k Resolution 
+      Supports 12K Resolution
 
 
       My Printer has a build volume of 218.88 x 122.88 x 260 mm³. This means it
       can print objects up to 218.88 millimeters long, 122.88 millimeters wide,
       and 260 millimeters tall.
+
+
+      It Prints Super Quick.
     actions: []
     media:
       title: Title of the video
