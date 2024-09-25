@@ -68,7 +68,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: We make 3D printing fun and affordable for everyone
     items:
       - type: FeaturedItem
         title: 500k
