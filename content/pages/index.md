@@ -103,7 +103,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: ABOUT MY MOTO
+      text: MY MOTO
       color: text-dark
       styles:
         self:
