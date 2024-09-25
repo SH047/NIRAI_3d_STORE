@@ -144,7 +144,7 @@ sections:
       url: /images/WhatsApp Image 2024-09-25 at 6.34.52 PM.jpeg
     media:
       type: ImageBlock
-      url: /images/hero2.svg
+      url: /images/WhatsApp Image 2024-09-25 at 8.41.16 PM.jpeg
       altText: Image alt text placeholder
       elementId: ''
       styles:
