@@ -38,7 +38,7 @@ sections:
       type: ImageBlock
     badge:
       label: 'HEY, THERE'
-      color: text-light
+      color: text-neutral
       type: Badge
     elementId: ''
     colors: bg-light-fg-dark
