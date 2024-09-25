@@ -360,7 +360,7 @@ sections:
 
     media:
       title: Making
-      url: ''
+      url: '"C:\Users\kumarswamy k p\Desktop\website NIRAI 3D STORE\AMMA MODEL.mp4"'
       controls: true
       aspectRatio: '16:9'
       styles:
