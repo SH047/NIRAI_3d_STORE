@@ -7,6 +7,9 @@ sections:
       text: Bring Your Ideas to Life with 3D Printing!
       color: text-dark
       type: TitleBlock
+      styles:
+        self:
+          fontWeight: 700
     subtitle: Subtitle goes here
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
