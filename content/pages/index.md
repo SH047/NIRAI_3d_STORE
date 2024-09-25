@@ -141,7 +141,6 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: /images/WhatsApp Image 2024-09-25 at 6.34.52 PM.jpeg
     media:
       type: ImageBlock
       url: /images/WhatsApp Image 2024-09-25 at 8.41.16 PM.jpeg
