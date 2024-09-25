@@ -343,7 +343,9 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: 'GIFT IDEAS '
+      text: >-
+        From Snapshots to Sculptures: Crafting Art with Photogrammetry and 3D
+        Printing
       color: text-dark
       styles:
         self:
