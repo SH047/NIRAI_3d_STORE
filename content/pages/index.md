@@ -779,11 +779,40 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+
+
+      **1. Upload Your Design:** If you already have a 3D
+
+      design, great! If not, I’ll help you create one based on your idea.
+
+
+      **2. Choose Materials & Size:** You can select from a
+
+      variety of materials and finishes to make sure your print comes out just
+      how
+
+      you envisioned it.
+
+
+      **3. Get a Quote & Print:** I’ll give you a quick and
+
+      transparent quote based on the complexity of the project, and once
+      confirmed,
+
+      the printing magic begins!
+
+
+      **4. Pick Up or Delivery**: You can either pick up your
+
+      print or have it delivered to you.
+
+
+
+
+
+
+
     media:
       fields:
         - name: name
