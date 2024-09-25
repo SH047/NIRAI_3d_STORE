@@ -118,10 +118,9 @@ sections:
       with a cool idea, then you’re in the right place. I started this venture
       with
 
-      one mission in mind: \*\*to make custom 3D printing accessible, fun, and
+      one mission in mind: to make custom 3D printing accessible, fun, and
 
-      affordable\*\* for creators like you. So, let me tell you a bit more about
-      how
+      affordable for creators like you. So, let me tell you a bit more about how
 
       this passion project came to life and what I can do to help you bring your
 
