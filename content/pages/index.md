@@ -290,6 +290,14 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: left
+    media:
+      type: ImageBlock
+      url: /images/hero2.svg
+      altText: Image alt text placeholder
+      elementId: ''
+      styles:
+        self:
+          borderRadius: medium
   - subtitle: Award winning enterprises trust us
     images:
       - url: /images/empathy-logo.svg
